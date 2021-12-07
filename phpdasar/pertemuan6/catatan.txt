@@ -1,0 +1,21 @@
+<?php
+// variable scope / ruang lingkup variable
+$x = 10;
+
+function tampilX(){
+  global $x;
+  echo $x;
+}
+
+tampilX();
+
+?>
+
+VARIABLE SUPERSGLOBALS
+$_GET
+$_POST
+$_REQUEST
+$_SESSION
+$_COOKIE
+$_SERVER
+$_ENV

@@ -1,0 +1,15 @@
+fucticon yang sering di gunakan
+
+build-in fucntion punya php
+1. string
+  strlen()
+  strcmp()
+  explode()
+  htmlspecialchars()
+
+2. utility
+  var_dump()
+  isset()
+  empty()
+  die()
+  sleep()

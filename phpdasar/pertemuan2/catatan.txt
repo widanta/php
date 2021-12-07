@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+  <h1>haloo, selamat datang <?php echo $nama;?></h1>
+  <p>ini adalah <?php "paragraft";?></p>
+  <!-- 1.ini adalah php di dalam html -->
+  
+  <!-- <?php
+    echo "<h1>halo, selamat datang</h1>"
+  ?>
+  2.ini adalah html di dalam php -->
+
+
+</body>
+</html>

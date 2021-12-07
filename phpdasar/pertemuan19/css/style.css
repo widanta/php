@@ -1,0 +1,15 @@
+.loader {
+  position: absolute;
+  top: 155px;
+  left: 340px;
+  display: none;
+}
+
+@media print {
+  .logout,
+  .tambah,
+  .form-cari,
+  .aksi {
+    display: none;
+  }
+}

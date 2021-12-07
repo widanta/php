@@ -1,0 +1,5 @@
+array yang kita buat sekarang di lat 3
+adalah array numerik
+apa itu array numerik ? adalah array yang indeksnya angka
+array adalah pasangan dari key dan value 
+key-nya adalah indeks yang dimulai dari 0

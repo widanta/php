@@ -1,0 +1,3 @@
+mengambil function dari tempat lain bisa menggunakan 
+require'functions.php';
+include'functions.php'
