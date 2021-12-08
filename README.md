@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fphp-1-logo-png-transparent.png&f=1&nofb=1" width="200"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fphp-1-logo-png-transparent.png&f=1&nofb=1" width="300"></a></p>
 
 
 # CSS 3
